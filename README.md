@@ -7,7 +7,9 @@ git pull
 
 submeter ficheiros:
 
-git commit -m "o meu commit" ficheiro.sql
+git add ficheiro.ficheiro 
+
+git commit -m "o meu commit" ficheiro.ficheiro
 
 git push
 
