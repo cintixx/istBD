@@ -9,7 +9,7 @@ submeter ficheiros:
 
 git add ficheiro.ficheiro 
 
-git commit -m "o meu commit" ficheiro.ficheiro
+git commit -m "o meu commit" 
 
 git push
 
